@@ -1,0 +1,31 @@
+var json_hotel_1 = {
+"type": "FeatureCollection",
+"name": "hotel_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bidwoods suites" }, "geometry": { "type": "Point", "coordinates": [ 36.800956442317478, -1.258256058535349 ] } },
+{ "type": "Feature", "properties": { "name": "Park Inn By Radisson Nairobi Westlands" }, "geometry": { "type": "Point", "coordinates": [ 36.79890638, -1.26495819 ] } },
+{ "type": "Feature", "properties": { "name": "Hotel La  Mada" }, "geometry": { "type": "Point", "coordinates": [ 36.859121085106686, -1.24479518782252 ] } },
+{ "type": "Feature", "properties": { "name": "Ole Sereni Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.845808839691735, -1.327079192492085 ] } },
+{ "type": "Feature", "properties": { "name": "Lymac Suites" }, "geometry": { "type": "Point", "coordinates": [ 36.84292781, -1.212818755 ] } },
+{ "type": "Feature", "properties": { "name": "Oak place Conference & Trading Centre" }, "geometry": { "type": "Point", "coordinates": [ 36.86493576, -1.213215477 ] } },
+{ "type": "Feature", "properties": { "name": "Trademark Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.78511052, -1.227214197 ] } },
+{ "type": "Feature", "properties": { "name": "Impala Guest House" }, "geometry": { "type": "Point", "coordinates": [ 36.71123678, -1.409743159 ] } },
+{ "type": "Feature", "properties": { "name": "Palicina Suites" }, "geometry": { "type": "Point", "coordinates": [ 36.78553884, -1.281024305 ] } },
+{ "type": "Feature", "properties": { "name": "Sarova Panafric Nairobi" }, "geometry": { "type": "Point", "coordinates": [ 36.810551786937943, -1.290136725801043 ] } },
+{ "type": "Feature", "properties": { "name": "Fairview Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.810288285320311, -1.291720369191323 ] } },
+{ "type": "Feature", "properties": { "name": "Crowne Plaza Nairobi" }, "geometry": { "type": "Point", "coordinates": [ 36.815160080109408, -1.300410612398696 ] } },
+{ "type": "Feature", "properties": { "name": "Hilton Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.824331585818371, -1.285328125308318 ] } },
+{ "type": "Feature", "properties": { "name": "Fahari Palace" }, "geometry": { "type": "Point", "coordinates": [ 36.788735795865897, -1.262286536647863 ] } },
+{ "type": "Feature", "properties": { "name": "Sarova Stanley" }, "geometry": { "type": "Point", "coordinates": [ 36.83237635, -1.282833911 ] } },
+{ "type": "Feature", "properties": { "name": "villa Rosa Kempinski" }, "geometry": { "type": "Point", "coordinates": [ 36.804590872367548, -1.278303123293947 ] } },
+{ "type": "Feature", "properties": { "name": "Radisson Blue Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.816709467597335, -1.302267445355929 ] } },
+{ "type": "Feature", "properties": { "name": "Hemingways Nairobi" }, "geometry": { "type": "Point", "coordinates": [ 36.70068484, -1.234571365000012 ] } },
+{ "type": "Feature", "properties": { "name": "Sankara nairobi" }, "geometry": { "type": "Point", "coordinates": [ 36.802773024898116, -1.262383656525378 ] } },
+{ "type": "Feature", "properties": { "name": "Pridelnn Azure Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.7849057, -1.266293721 ] } },
+{ "type": "Feature", "properties": { "name": "Movenpick Residences" }, "geometry": { "type": "Point", "coordinates": [ 36.805094753437011, -1.261033689902795 ] } },
+{ "type": "Feature", "properties": { "name": "Hotel Fairmount The Norfolk" }, "geometry": { "type": "Point", "coordinates": [ 36.816309965144754, -1.278306411186106 ] } },
+{ "type": "Feature", "properties": { "name": "Safari park Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.88069346, -1.214324606 ] } },
+{ "type": "Feature", "properties": { "name": "Nairobi Serena Hotel" }, "geometry": { "type": "Point", "coordinates": [ 36.814539525704532, -1.287020423511764 ] } }
+]
+}
